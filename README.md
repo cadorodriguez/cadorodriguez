@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ricardo Rodriguez
 - 👀 I’m interested in  Front end
 - 🌱 I’m currently learning  HTML, CSS, JS  e UX/UI   
-- 💞️ I’m looking to collaborate on  proetos que possa contribuir e aprender    
+- 💞️ I’m looking to collaborate on  projetos que possa contribuir e aprender    
 - 📫 How to reach me ? Meu email é cadodesigner@hotmail.com
 
 <!---
